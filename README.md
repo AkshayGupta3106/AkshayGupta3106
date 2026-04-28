@@ -141,5 +141,4 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/akshayakds/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/akshayakds"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://skillicons.dev/icons?i=github"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
